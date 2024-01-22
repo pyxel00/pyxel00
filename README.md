@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - 👋 I am a new starter in programming.
 - 🌱 I am learning java and minecraft modding.
