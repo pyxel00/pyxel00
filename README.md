@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+👋 I am a new starter in programming.
+🌱 I am learning java and minecraft modding.
+
+
 <!--
 **pyxel00/pyxel00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
