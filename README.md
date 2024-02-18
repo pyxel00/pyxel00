@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Pyxel</h1>
-<h3 align="left">New comer in programming</h3>
+<h1 align="center">👋Hi there!</h1>
+<h2 align="center">I am <em>Pyxel</em></h2>
+<h4 align="center">A new comer in programming.</h4>  
 
-- 🌱 I’m currently learning **python** and **web development**
+<h3>🌱 Activities!</h3>
+- I am currently <em>trying</em> to learn 🇨!<br> 
+- I am also interested in <em>python🐍</em> and <em>rust🦀</em>!
 
-<h3 align="left">✨Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3>💻Languages<sub>doubtable</sub>!</h3>
 
-<h3 align="left">📊GitHub Stats:</h3>
+[![Language İcons](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pyxel00&show_icons=true&theme=dark&locale=en&layout=compact" alt="pyxel00" /></p>
+<h3>📊GitHub Stats!</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
