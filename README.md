@@ -3,8 +3,9 @@
 <h4 align="center">A new comer in programming.</h4>  
 
 <h3>🌱 Activities!</h3>
-- I am currently <em>trying</em> to learn 🇨!<br> 
-- I am also interested in <em>python🐍</em> and <em>rust🦀</em>!
+
+- I am currently *trying* to learn 🇨!<br> 
+- I am also interested in **python🐍** and **rust🦀**!
 
 <h3>💻Languages<sub>doubtable</sub>!</h3>
 
