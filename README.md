@@ -4,8 +4,7 @@
 
 <h3>🌱 Activities!</h3>
 
-- I am currently *trying* to learn <img src="https://github.com/pyxel00/pyxel00/blob/main/c-icon.svg?raw=true" width=20px height=20px>!
-- I am also interested in **python🐍** and **rust🦀**!
+- I am interested in **python🐍** and **rust🦀**!
 
 <h3>💻Languages<sub>doubtable</sub>!</h3>
 
