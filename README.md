@@ -4,7 +4,8 @@
 
 <h3>🌱 Activities!</h3>
 
-- I am interested in **python🐍** and **rust🦀**!
+- I am currently learning **Rust🦀** 
+- I am interested in **python🐍**
 
 <h3>💻Languages<sub>doubtable</sub>!</h3>
 
