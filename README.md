@@ -4,12 +4,12 @@
 
 <h3>🌱 Activities!</h3>
 
-- I am currently learning **Rust🦀** 
+- I am currently learning **Go!** 
 - I am interested in **python🐍**
 
 <h3>💻Languages<sub>doubtable</sub>!</h3>
 
-[![Language İcons](https://skillicons.dev/icons?i=java,py,rust)](https://skillicons.dev)  
+[![Language İcons](https://skillicons.dev/icons?i=java,py,go)](https://skillicons.dev)  
 
 <h3>📊GitHub Stats!</h3>
 
