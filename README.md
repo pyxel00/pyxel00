@@ -4,7 +4,7 @@
 
 <h3>🌱 Activities!</h3>
 
-- I am currently learning **🇨** 
+- I am currently learning <img src="c-icon.svg" alt="C" width="30"/> <sub>Why are pointers so damn hard!<sub>
 - I am interested in **python🐍**
 
 <h3>💻Languages<sub>doubtable</sub>!</h3>
