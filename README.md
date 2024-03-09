@@ -4,7 +4,7 @@
 
 <h3>🌱 Activities!</h3>
 
-- I am currently learning **©️** 
+- I am currently learning **🇨** 
 - I am interested in **python🐍**
 
 <h3>💻Languages<sub>doubtable</sub>!</h3>
