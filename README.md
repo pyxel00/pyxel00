@@ -5,11 +5,11 @@
 <h3>🌱 Activities!</h3>
 
 - I am currently learning <img src="c-icon.svg" alt="C" width="30"/> <sub>Why are pointers so damn hard!<sub>
-- I am interested in **python🐍**
+- I am interested in **Rust🦀**
 
 <h3>💻Languages!</h3>
 
-[![Language İcons](https://skillicons.dev/icons?i=java,py,go,c)](https://skillicons.dev)  
+[![Language İcons](https://skillicons.dev/icons?i=java,py,c)](https://skillicons.dev)  
 
 <h3>📊GitHub Stats!</h3>
 
