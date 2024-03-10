@@ -7,7 +7,7 @@
 - I am currently learning <img src="c-icon.svg" alt="C" width="30"/> <sub>Why are pointers so damn hard!<sub>
 - I am interested in **python🐍**
 
-<h3>💻Languages<sub>doubtable</sub>!</h3>
+<h3>💻Languages!</h3>
 
 [![Language İcons](https://skillicons.dev/icons?i=java,py,go,c)](https://skillicons.dev)  
 
