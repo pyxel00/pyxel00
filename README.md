@@ -9,7 +9,7 @@
 
 <h3>💻Languages<sub>doubtable</sub>!</h3>
 
-[![Language İcons](https://skillicons.dev/icons?i=java,py,go)](https://skillicons.dev)  
+[![Language İcons](https://skillicons.dev/icons?i=java,py,go,c)](https://skillicons.dev)  
 
 <h3>📊GitHub Stats!</h3>
 
