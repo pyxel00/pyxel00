@@ -9,7 +9,7 @@
 
 <h3>💻Languages!</h3>
 
-[![Language İcons](https://skillicons.dev/icons?i=java,rust)](https://skillicons.dev) <sub>Kinda</sub>
+[![Language İcons](https://skillicons.dev/icons?i=rust)](https://skillicons.dev) <sub>Kinda</sub>
 
 <h3>📊GitHub Stats!</h3>
 
