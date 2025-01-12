@@ -4,7 +4,7 @@
 
 <h3>🌱 Activities!</h3>
 
-- I am currently learning **Rust**<img src="ferris.svg" alt="Ferris!" width="25"/> 
+- I am currently learning **Godot** and **Gdscript** 
 - I am interested in learning new _technologies._
 
 <h3>💻Languages!</h3>
